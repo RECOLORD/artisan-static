@@ -3,7 +3,7 @@
 @section('title', 'About')
 
 @section('content')
-    <h1>About</h1>
+    <h1>test</h1>
 
     <p>My name is {{ $page->owner->name }}</p>
 
