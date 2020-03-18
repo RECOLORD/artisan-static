@@ -22,7 +22,7 @@
             <strong>{{ $page->site->title }}</strong><br>
             <ul>
                 <li><a href="/">Home</a></li>
-                <li><a href="/posts">Posts</a></li>
+                <li><a href="/posts">WORKS</a></li>
                 <li><a href="/about">About</a></li>
                 <li><a href="/contact">Contact</a></li>
             </ul>
@@ -37,8 +37,8 @@
 
     <footer>
         <small>
-            This project is maintained by <a href="https://raniesantos.netlify.com">Ranie Santos</a>.
-            View the <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>.
+            This project is maintained by 
+            View the.
         </small>
     </footer>
 
