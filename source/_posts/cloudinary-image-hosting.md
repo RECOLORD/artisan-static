@@ -1,5 +1,5 @@
 ---
-title: 05 - Cloudinary Image Hosting
+title: '05 - Cloudinary '
 date: 2018-08-31T00:00:00.000Z
 image: photos.jpg
 comments: false
@@ -10,4 +10,4 @@ Go to `config.php` and add your **cloud name** under the `services` key.
 
 Committing image files into Git is generally a bad idea unless you're sure that they will very rarely get edited/updated. That is why it is ideal to host images externally with services like Cloudinary when using static site generators.
 
-![](/images/sub02.jpg)
+![null](/images/sub02.jpg)
